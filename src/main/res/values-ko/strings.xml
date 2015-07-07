@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="category_favorites">선호</string>
+    <string name="category_media">미디어</string>
+    <string name="category_activities">기타</string>
+    <string name="app_category_dialog_title">범위 선택하기</string>
+    <string name="parent_check_password_wrong_password">잘못된 비밀번호</string>
+</resources>

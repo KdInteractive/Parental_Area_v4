@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    
+    <string name="time_is_nearly_over">Tiden är nästan slut!</string>
+    <string name="this_account_will_be_locked_in_five_minutes">Den här profilen stängs snart!</string>
+    <string name="category_favorites">Favoriter</string>
+    <!-- There's a limit of 11 letters for each word here to fit in the interface -->
+    <string name="category_allapps">Alla appar</string>
+    <string name="category_licencedcategory">Kurio urval</string>
+    <string name="category_games">Spel</string>
+    <!-- There's a limit of 10 letters for this word to fit in the interface -->
+    <string name="category_educational">Utbildning</string>
+    <string name="category_media">Media</string>
+    <!-- there's a limit of 11 letters per word here to fit in the interface -->
+    <string name="category_ebooks">E-böcker</string>
+    <string name="category_activities">Övrigt</string>
+    <string name="category_uncategorized">Utan kategori</string>
+    <string name="app_category_dialog_title">Välj en kategori</string>
+    <string name="app_category_select_child_to_allow">Godkänn för:</string>
+    <string name="app_category_notifications_categorize_one_app">Vänligen kategorisera apparna.</string>
+    <string name="notification_installation_blocked_title">\'%s\' har blockerats</string>
+    <string name="notification_installation_blocked">Du kan ge ditt barn tillstånd att installera appar från föräldraområdet</string>
+    <string name="time_control_quick_setting_title">Det är dags att sluta! Du har spelat mycket på din platta idag.</string>
+    <string name="time_control_quick_setting_description">Om du har något viktigt som du vill avsluta kan du be en vuxen om extra tid.</string>
+    <string name="time_control_quick_setting_warning">De här ändringarna är tillfälliga och påverkar inte dina inställningar.</string>
+    <string name="time_control_quick_setting_title_description_password">Ange ditt lösenord för att lägga till tid till ditt barns profil.</string>
+    <string name="settings_title_description_password">Ange ditt lösenord för att få tillgång till inställningarna för barnprofilen.</string>
+    <string name="add_time">Lägg till tid</string>
+    <string name="plus_5">+5 min</string>
+    <string name="plus_10">+10 min</string>
+    <string name="plus_15">+15 min</string>
+    <string name="plus_20">+20 min</string>
+    <string name="parent_check_password_type_pin_or_text">Föräldralösenord \nText- eller PIN-lösenord  </string>
+    <string name="parent_check_password_type_pattern">Föräldralösenord \nMönster  </string>
+    <string name="parent_check_password_no_password">DU HAR INTE STÄLLT IN NÅGOT LÖSENORD,\nDU KAN INTE LÅSA UPP FRÅN BARNPROFIL  </string>
+    <string name="parent_check_password_wrong_password">Fel lösenord</string>
+    <string name="launch_app_google_account_deactivate">För att kunna använda den här appen måste du aktivera Google-kontot för ditt barn</string>
+    <string name="warning_browser_app">Varning: Den här webbläsaren använder inte webbfilter!</string>
+</resources>

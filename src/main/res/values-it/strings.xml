@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <!-- This key doesn't need any translation -->
+    <string name="app_name">Kurio genitori</string>
+    <string name="time_is_nearly_over">Il tempo è quasi scaduto!</string>
+    <string name="this_account_will_be_locked_in_five_minutes">Il profilo sarà bloccato tra poco!</string>
+    <string name="category_favorites">Preferiti</string>
+    <!-- There's a limit of 11 letters for each word here to fit in the interface -->
+    <string name="category_allapps">Tutte le app</string>
+    <string name="category_licencedcategory">Selezione Kurio</string>
+    <string name="category_games">Giochi</string>
+    <!-- There's a limit of 10 letters for this word to fit in the interface -->
+    <string name="category_educational">Educativo</string>
+    <string name="category_media">Media</string>
+    <!-- there's a limit of 11 letters per word here to fit in the interface -->
+    <string name="category_ebooks">Ebook</string>
+    <string name="category_activities">Altro</string>
+    <string name="category_uncategorized">Senza categoria</string>
+    <string name="app_category_dialog_title">Scegli una categoria</string>
+    <string name="app_category_select_child_to_allow">Autorizza per:</string>
+    <string name="app_category_notifications_categorize_one_app">Cataloga le applicazioni.</string>
+    <string name="notification_installation_blocked_title">\'%s\' è stata bloccata</string>
+    <string name="notification_installation_blocked">Puoi autorizzare il tuo bambino a installare applicazioni dall\'Area genitori</string>
+    <string name="time_control_quick_setting_title">È ora di smettere! Oggi hai già giocato un sacco con il tuo tablet.</string>
+    <string name="time_control_quick_setting_description">Se c\'è qualcosa di importante che devi finire, puoi chiedere del tempo in più ad un adulto.</string>
+    <string name="time_control_quick_setting_warning">Queste modifiche sono temporanee e non avranno effetto sulle tue impostazioni.</string>
+    <string name="time_control_quick_setting_title_description_password">Inserisci la tua password per aggiungere tempo al profilo bambino.</string>
+    <string name="settings_title_description_password">Inserisci la tua password per accedere alle impostazioni del profilo bambino.</string>
+    <string name="add_time">Aggiungi tempo</string>
+    <string name="plus_5">+5 min</string>
+    <string name="plus_10">+10 min</string>
+    <string name="plus_15">+15 min</string>
+    <string name="plus_20">+20 min</string>
+    <string name="parent_check_password_type_pin_or_text">Password genitore \nPassword di testo o PIN  </string>
+    <string name="parent_check_password_type_pattern">Password genitore \nSchema  </string>
+    <string name="parent_check_password_no_password">NON HAI MPOSTATO UNA PASSWORD,\nNON PUOI SBLOCCARE\nDAL PROFILO BAMBINO  </string>
+    <string name="parent_check_password_wrong_password">Password errata</string>
+    <string name="launch_app_google_account_deactivate">Per utilizzare questa applicazione attivare l\'account Google per il bambino</string>
+    <string name="warning_browser_app">Attenzione: a questo browser non è possibile applicare filtri Internet. Si consiglia di non autorizzare questa applicazione per i profili bambino.</string>
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="time_is_nearly_over">Tiden er næsten gået!</string>
+    <string name="this_account_will_be_locked_in_five_minutes">Denne profil bliver låst meget snart!</string>
+    <string name="category_favorites">Foretrukne</string>
+    <!-- There's a limit of 11 letters for each word here to fit in the interface -->
+    <string name="category_allapps">Alle apps</string>
+    <string name="category_licencedcategory">Kurio Selection</string>
+    <string name="category_games">Spil</string>
+    <!-- There's a limit of 10 letters for this word to fit in the interface -->
+    <string name="category_educational">Undervisn.</string>
+    <string name="category_media">Medier</string>
+    <!-- there's a limit of 11 letters per word here to fit in the interface -->
+    <string name="category_ebooks">e-bøger</string>
+    <string name="category_activities">Andre</string>
+    <string name="category_uncategorized">Ingen kategori</string>
+    <string name="app_category_dialog_title">Vælg en kategori</string>
+    <string name="app_category_select_child_to_allow">Tillad for:</string>
+    <string name="app_category_notifications_categorize_one_app">Kategoriser dine apps.</string>
+    <string name="notification_installation_blocked_title">\'%s\' er blokeret</string>
+    <string name="notification_installation_blocked">Du kan give dit barn tilladelse til at installere apps fra forældreområdet</string>
+    <string name="time_control_quick_setting_title">Det er på tide at stoppe! Du har spillet meget på din tablet i dag.</string>
+    <string name="time_control_quick_setting_description">Hvis der er noget vigtigt, du gerne vil gøre færdigt, kan du bede en voksen om at få mere tid.</string>
+    <string name="time_control_quick_setting_warning">Disse ændringer er midlertidige og påvirker ikke dine indstillinger.</string>
+    <string name="time_control_quick_setting_title_description_password">Indtast din adgangskode for at tilføje ekstra tid til dit barns profil.</string>
+    <string name="settings_title_description_password">Indtast din adgangskode for at få adgang til barnets profil.</string>
+    <string name="add_time">Tilføj tid</string>
+    <string name="plus_5">+5 minutter</string>
+    <string name="plus_10">+10 minutter</string>
+    <string name="plus_15">+15 minutter</string>
+    <string name="plus_20">+20 minutter</string>
+    <string name="parent_check_password_type_pin_or_text">Forældreadgangskode \nTekst eller PIN-adgangskode  </string>
+    <string name="parent_check_password_type_pattern">Forældreadgangskode \nMønster  </string>
+    <string name="parent_check_password_no_password">DU HAR IKKE ANGIVET EN ADGANGSKODE,\nDU KAN IKKE LÅSE OP\nFRA BARNETS PROFIL  </string>
+    <string name="parent_check_password_wrong_password">Forkert adgangskode</string>
+    <string name="launch_app_google_account_deactivate">For at bruge denne app skal du aktivere Google-kontoen for dit barn</string>
+    <string name="warning_browser_app">Advarsel: Denne browser anvender ikke webfiltrering!</string>
+</resources>

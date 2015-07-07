@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <!-- This key doesn't need any translation -->
+    <string name="app_name">Kurio parental core</string>
+    <string name="time_is_nearly_over">Time is almost up!</string>
+    <string name="this_account_will_be_locked_in_five_minutes">This profile will be locked shortly!</string>
+    <string name="category_favorites">Favorites</string>
+    <!-- There's a limit of 11 letters for each word here to fit in the interface -->
+    <string name="category_allapps">All apps</string>
+    <string name="category_licencedcategory">Kurio selection</string>
+    <string name="category_games">Games</string>
+    <!-- There's a limit of 10 letters for this word to fit in the interface -->
+    <string name="category_educational">Educative</string>
+    <string name="category_media">Media</string>
+    <!-- there's a limit of 11 letters per word here to fit in the interface -->
+    <string name="category_ebooks">Ebooks</string>
+    <string name="category_activities">Other</string>
+    <string name="category_uncategorized">Not categorized</string>
+    <string name="app_category_dialog_title">Select a category</string>
+    <string name="app_category_select_child_to_allow">Authorize for:</string>
+    <string name="app_category_notifications_categorize_one_app">Please categorize apps</string>
+    <string name="notification_installation_blocked_title">\'%s\' has been blocked</string>
+    <string name="notification_installation_blocked">You can authorize it from Kurio Genius</string>
+    <string name="time_control_quick_setting_title">It\'s time to stop! You have played a lot with your Kurio today.</string>
+    <string name="time_control_quick_setting_description">If you have something important to finish, you can ask an adult for extra time.</string>
+    <string name="time_control_quick_setting_warning">These modifications are temporary and will not affect your settings.</string>
+    <string name="time_control_quick_setting_title_description_password">Enter your password to add time to your child\'s profile.</string>
+    <string name="settings_title_description_password">Enter your password to access settings for the child profile.</string>
+    <string name="add_time">Add Time</string>
+    <string name="plus_5">+5 mins</string>
+    <string name="plus_10">+10 mins</string>
+    <string name="plus_15">+15 mins</string>
+    <string name="plus_20">+20 mins</string>
+    <string name="parent_check_password_type_pin_or_text">Parent password \nText or PIN password  </string>
+    <string name="parent_check_password_type_pattern">Parent password \nPattern  </string>
+    <string name="parent_check_password_no_password">YOU HAVEN\'T SET A PASSWORD,\nYOU CANNOT UNLOCK\nFROM CHILD\'S PROFILE</string>
+    <string name="parent_check_password_wrong_password">Wrong password</string>
+    <string name="launch_app_google_account_deactivate">To use this app, please activate the Google account for your child</string>
+    <string name="warning_browser_app">Warning: this browser does not implement Internet filters. It is highly recommended that you do not authorize this app to your child\'s profile.</string>
+</resources>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#FFA955"
+    android:padding="10dp">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true">
+
+        <ImageView
+            android:id="@+id/iv_clock"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:src="@drawable/clock_small" />
+
+        <TextView
+            android:id="@+id/time_is_nearly_over"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/iv_clock"
+            android:layout_toEndOf="@id/iv_clock"
+            android:paddingStart="15dp"
+            android:text="@string/time_is_nearly_over"
+            android:textColor="#AA5555" />
+
+        <TextView
+            android:id="@+id/time_warning_message"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/iv_clock"
+            android:layout_centerVertical="true"
+            android:layout_toEndOf="@id/iv_clock"
+            android:paddingStart="15dp"
+            android:singleLine="true"
+            android:text="@string/this_account_will_be_locked_in_five_minutes"
+            android:textColor="#FFFFFF" />
+
+        <TextView
+            android:id="@+id/tvStatus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toEndOf="@id/iv_clock"
+            android:layout_below="@id/time_warning_message"
+            android:paddingStart="15dp"
+            android:singleLine="true"
+            android:text=""
+            android:textColor="#FFFFFF" />
+    </RelativeLayout>
+</RelativeLayout>

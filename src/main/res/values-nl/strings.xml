@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <!-- This key doesn't need any translation -->
+    <string name="app_name">Kurio Ouder kern</string>
+    <string name="time_is_nearly_over">Toegestane tijd is bijna verstreken!</string>
+    <string name="this_account_will_be_locked_in_five_minutes">Dit profiel wordt bijna vergrendeld!</string>
+    <string name="category_favorites">Favorieten</string>
+    <!-- There's a limit of 11 letters for each word here to fit in the interface -->
+    <string name="category_allapps">Alle apps</string>
+    <string name="category_licencedcategory">Kurio Selectie</string>
+    <string name="category_games">Games</string>
+    <!-- There's a limit of 10 letters for this word to fit in the interface -->
+    <string name="category_educational">Educatief</string>
+    <string name="category_media">Media</string>
+    <!-- there's a limit of 11 letters per word here to fit in the interface -->
+    <string name="category_ebooks">eBoeken</string>
+    <string name="category_activities">Overig</string>
+    <string name="category_uncategorized">Geen categorie</string>
+    <string name="app_category_dialog_title">Selecteer een categorie</string>
+    <string name="app_category_select_child_to_allow">Autoriseer voor:</string>
+    <string name="app_category_notifications_categorize_one_app">Categoriseer alstublieft de volgende apps</string>
+    <string name="notification_installation_blocked_title">\'%s\' is geblokkeerd</string>
+    <string name="notification_installation_blocked">U kunt toestemming geven vanuit Kurio Genius.</string>
+    <string name="time_control_quick_setting_title">Het is tijd om te stoppen! Je hebt al een behoorlijke tijd met de tab gespeeld.</string>
+    <string name="time_control_quick_setting_description">Mocht je nog iets belangrijks af moeten maken, vraag dan even aan je ouders of je dit af mag maken.</string>
+    <string name="time_control_quick_setting_warning">Deze aanpassingen zijn tijdelijk en je instellingen zullen bewaard blijven</string>
+    <string name="time_control_quick_setting_title_description_password">Geef uw wachtwoord op om uw kind extra tijd te geven.</string>
+    <string name="settings_title_description_password">Geef uw wachtwoord in om toegang te krijgen tot de instellingen van het Kinderprofiel.</string>
+    <string name="add_time">Voeg tijd toe</string>
+    <string name="plus_5">+5 min</string>
+    <string name="plus_10">+10 min</string>
+    <string name="plus_15">+15 min</string>
+    <string name="plus_20">+20 min</string>
+    <string name="parent_check_password_type_pin_or_text">Ouder wachtwoord \nTekst of PIN</string>
+    <string name="parent_check_password_type_pattern">Ouder wachtwoord \nPatroon</string>
+    <string name="parent_check_password_no_password">U HEEFT GEEN WACHTWOORD INGESTELD,\nU KUNT HIERDOOR NIET ONTGRENDELEN VANUIT HET KINDERPROFIEL</string>
+    <string name="parent_check_password_wrong_password">Fout wachtwoord</string>
+    <string name="launch_app_google_account_deactivate">Om deze applicatie te gebruiken dient u eerst het Google account voor uw kind te activeren</string>
+    <string name="warning_browser_app">Waarschuwing: deze browser maakt geen gebruik van Internetfilters. We raden dan ook aan dat u deze applicatie niet beschikbaar maakt voor Kinderprofielen.</string>
+</resources>

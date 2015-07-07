@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    
+    <string name="time_is_nearly_over">Die Zeit ist fast um!</string>
+    <string name="this_account_will_be_locked_in_five_minutes">Dieses Profil wird in Kürze gesperrt!</string>
+    <string name="category_favorites">Favoriten</string>
+    <!-- There's a limit of 11 letters for each word here to fit in the interface -->
+    <string name="category_allapps">Alle Apps</string>
+    <string name="category_licencedcategory">Kurio-Auswahl</string>
+    <string name="category_games">Spiele</string>
+    <!-- There's a limit of 10 letters for this word to fit in the interface -->
+    <string name="category_educational">Lernen</string>
+    <string name="category_media">Medien</string>
+    <!-- there's a limit of 11 letters per word here to fit in the interface -->
+    <string name="category_ebooks">E-Books</string>
+    <string name="category_activities">Sonstiges</string>
+    <string name="category_uncategorized">Ohne Rubrik</string>
+    <string name="app_category_dialog_title">Kategorie auswählen</string>
+    <string name="app_category_select_child_to_allow">Autorisieren für:</string>
+    <string name="app_category_notifications_categorize_one_app">Bitte Apps kategorisieren</string>
+    <string name="notification_installation_blocked_title">\'%s\' wurde geblockt</string>
+    <string name="notification_installation_blocked">Autorisierung über Kurio Genius möglich.</string>
+    <string name="time_control_quick_setting_title">Zeit, Schluss zu machen! Du hast heute viel mit deinem Kurio gespielt.</string>
+    <string name="time_control_quick_setting_description">Wenn du etwas wichtiges zu Ende bringen möchtest, kannst du einen Erwachsenen um Extra-Zeit bitten.</string>
+    <string name="time_control_quick_setting_warning">Diese Änderungen sind nur vorübergehend und wirken sich nicht auf deine Einstellungen aus.</string>
+    <string name="time_control_quick_setting_title_description_password">Geben Sie Ihr Passwort ein, um für das Profil Ihres Kindes Extra-Zeit festzulegen.</string>
+    <string name="settings_title_description_password">Geben Sie Ihr Passwort ein, um die Einstellungen für das Kinderprofil aufzurufen.</string>
+    <string name="add_time">Extra-Zeit</string>
+    <string name="plus_5">+5 Min</string>
+    <string name="plus_10">+10 Min</string>
+    <string name="plus_15">+15 Min</string>
+    <string name="plus_20">+20 Min</string>
+    <string name="parent_check_password_type_pin_or_text">Eltern-Passwort \nText-Passwort oder PIN  </string>
+    <string name="parent_check_password_type_pattern">Eltern-Passwort \nMuster  </string>
+    <string name="parent_check_password_no_password">SIE HABEN KEIN PASSWORT EINGESTELLT\nSPERREN ÜBER DAS\nKINDERPROFIL NICHT MÖGLICH</string>
+    <string name="parent_check_password_wrong_password">Falsches Passwort</string>
+    <string name="launch_app_google_account_deactivate">Um diese App nutzen zu können, aktivieren Sie bitte das Google-Konto für Ihr Kind</string>
+    <string name="warning_browser_app">Achtung: Dieser Browser verwendet keine Internet-Filter. Es wird dringend davon abgeraten, diese App für das Profil Ihres Kindes zu autorisieren.</string>
+</resources>

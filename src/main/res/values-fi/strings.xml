@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    
+    <string name="time_is_nearly_over">Aika on melkein lopussa!</string>
+    <string name="this_account_will_be_locked_in_five_minutes">Tämä profiili lukitaan pian!</string>
+    <string name="category_favorites">Suosikit</string>
+    <!-- There's a limit of 11 letters for each word here to fit in the interface -->
+    <string name="category_allapps">Kaikki sovellukset</string>
+    <string name="category_licencedcategory">Kurio valikoima</string>
+    <string name="category_games">Pelit</string>
+    <!-- There's a limit of 10 letters for this word to fit in the interface -->
+    <string name="category_educational">Opetus</string>
+    <string name="category_media">Media</string>
+    <!-- there's a limit of 11 letters per word here to fit in the interface -->
+    <string name="category_ebooks">E-kirjat</string>
+    <string name="category_activities">Muut</string>
+    <string name="category_uncategorized">Ei luokkaa</string>
+    <string name="app_category_dialog_title">Valitse Luokka</string>
+    <string name="app_category_select_child_to_allow">Salli käyttäjälle:</string>
+    <string name="app_category_notifications_categorize_one_app">Luokittele sovellukset.</string>
+    <string name="notification_installation_blocked_title">Sovelluksen \'%s\' on estetty</string>
+    <string name="notification_installation_blocked">Voit sallia sovellusten asentamisen lapselle vanhemman näkymästä.</string>
+    <string name="time_control_quick_setting_title">On aika lopettaa! Olet pelannut tabletilla tänään jo paljon.</string>
+    <string name="time_control_quick_setting_description">Jos sinulla on jotakin tärkeää kesken, voit pyytää aikuiselta lisää aikaa</string>
+    <string name="time_control_quick_setting_warning">Nämä muutokset ovat tilapäisiä eivätkä vaikuta asetuksiisi.</string>
+    <string name="time_control_quick_setting_title_description_password">Syötä salasanasi lisätäksesi aikaa lapsen profiilille.</string>
+    <string name="settings_title_description_password">Syötä salasanasi tarkastellaksesi lapsen profiilin asetuksia.</string>
+    <string name="add_time">Lisää aikaa</string>
+    <string name="plus_5">+5 min</string>
+    <string name="plus_10">+10 min</string>
+    <string name="plus_15">+15 min</string>
+    <string name="plus_20">+20 min</string>
+    <string name="parent_check_password_type_pin_or_text">Vanhemman salasana \nTeksti- tai PIN-salasana  </string>
+    <string name="parent_check_password_type_pattern">Vanhemman salasana \nKuvio  </string>
+    <string name="parent_check_password_no_password">ET OLE ASETTANUT SALASANAA,\nET VOI AVATA LUKITUSTA\nLAPSEN PROFIILISTA  </string>
+    <string name="parent_check_password_wrong_password">Väärä salasana</string>
+    <string name="launch_app_google_account_deactivate">Aktivoi lapsen Google-tili käyttääksesi tätä sovellusta</string>
+    <string name="warning_browser_app">Varoitus: tämä selain ei käytä Internet-suodattimia. On erittäin suositeltavaa, että et salli tätä sovellusta lapsesi profiilille.</string>
+</resources>

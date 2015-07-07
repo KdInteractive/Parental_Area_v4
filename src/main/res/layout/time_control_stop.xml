@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="@android:color/white"
+    android:orientation="horizontal">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/parent_check_password_top" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/parent_check_password_bottom" />
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_margin="@dimen/marginBig"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:id="@+id/llTitle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="@dimen/marginBig"
+                        android:src="@drawable/image_clock_round" />
+
+                    <TextView
+                        android:id="@+id/tvTitle"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginStart="@dimen/marginStandard"
+                        android:layout_marginEnd="@dimen/marginStandard"
+                        android:text="@string/time_control_quick_setting_title"
+                        android:textColor="@color/kurio_blue"
+                        android:textSize="@dimen/abc_text_size_medium_material"/>
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/tvDesc"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/llTitle"
+                    android:layout_marginStart="@dimen/marginBig"
+                    android:layout_marginEnd="@dimen/marginBig"
+                    android:text="@string/time_control_quick_setting_description"
+                    android:textColor="@color/kurio_blue"
+                    android:textSize="@dimen/abc_text_size_medium_material"/>
+
+                <TextView
+                    android:id="@+id/tvWarning"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/tvDesc"
+                    android:layout_marginStart="@dimen/marginBig"
+                    android:layout_marginEnd="@dimen/marginBig"
+                    android:text="@string/time_control_quick_setting_warning"
+                    android:textColor="@color/kurio_blue"
+                    android:textSize="@dimen/abc_text_size_medium_material"/>
+
+                <RelativeLayout
+                    android:id="@+id/rlBottomBarTimeAdd"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:orientation="horizontal">
+
+                    <Button
+                        android:id="@+id/btnAdd"
+                        style="@style/text_button"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentStart="true"
+                        android:layout_margin="@dimen/marginBig"
+                        android:padding="@dimen/marginBig"
+                        android:text="@string/add_time"
+                        android:textColor="@color/kurio_blue"
+                        android:textSize="@dimen/abc_text_size_large_material"/>
+
+                    <Button
+                        android:id="@+id/btnCancelAdd"
+                        style="@style/text_button"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentEnd="true"
+                        android:layout_margin="@dimen/marginBig"
+                        android:padding="@dimen/marginBig"
+                        android:text="@android:string/cancel"
+                        android:textColor="@color/kurio_blue"
+                        android:textSize="@dimen/abc_text_size_large_material"/>
+
+                </RelativeLayout>
+            </RelativeLayout>
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+</LinearLayout>

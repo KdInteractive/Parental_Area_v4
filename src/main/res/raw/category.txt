@@ -1,0 +1,10 @@
+#categoryStringId@canAddActivities@canMoveActivities@canRemoveActivities@canBeAttributed
+favorites@true@true@true@false
+licencedcategory@false@false@false@false
+games@false@false@false@false
+educational@false@false@false@false
+media@false@false@false@false
+ebooks@false@false@false@false
+activities@false@false@false@false
+uncategorized@false@false@false@false
+allapps@false@false@false@false

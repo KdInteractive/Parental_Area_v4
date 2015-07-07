@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marginStandard">5dp</dimen>
+    <dimen name="marginBig">10dp</dimen>
+    <dimen name="profileApplicationControlImageWidth">80dp</dimen>
+    <dimen name="profileApplicationControlImageHeight">80dp</dimen>
+</resources>

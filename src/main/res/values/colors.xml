@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="text_desc">#FFCCC4C5</color>
+    <color name="top_bar_dialog_text_color">#ffffff</color>
+    <color name="top_bar_background_color">#ff33B5E5</color>
+    <color name="dialog_divider_color">#6193ad</color>
+    <color name="dialog_button_pressed_color">#ffd800</color>
+    <color name="kurio_blue">#00a4e4</color>
+    <color name="kurio_orange">#e6ae5d</color>
+    <color name="kurio_green">#c4e054</color>
+</resources>

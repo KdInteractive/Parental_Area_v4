@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="title_dialog">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@android:color/tertiary_text_light</item>
+    </style>
+
+    <style name="informationSubtitleText">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@android:color/tertiary_text_light</item>
+    </style>
+
+    <style name="item_desc">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@android:color/tertiary_text_light</item>
+    </style>
+
+    <style name="CustomDialogThemeNoTitle" parent="@android:style/Theme.Holo.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowCloseOnTouchOutside">false</item>
+    </style>
+
+    <style name="ParentCheck" parent="@style/Theme.AppCompat.Light.NoActionBar" tools:ignore="PrivateResource">
+        <item name="@*android:regularColor">@color/kurio_blue</item>
+        <item name="@*android:successColor">@color/kurio_blue</item>
+    </style>
+    <style name="text_button" parent="@android:style/Widget.Holo.Button.Borderless">
+        <item name="android:background">@null</item>
+    </style>
+
+    <style name="dialog_button" parent="@style/Widget.AppCompat.Light.ActionButton">
+        <item name="android:textColor">@color/kurio_blue</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:padding">@dimen/marginBig</item>
+    </style>
+</resources>
